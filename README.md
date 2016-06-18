@@ -6,6 +6,7 @@
 
 Для работы модуля требуется установка расширенного компилятора:
 
+0. Переименовать папку *alarm-clock-attribute-master* в *alarm-clock-attribute*, если качали zip.
 1. Загрузить папку с модулем в */itop/extensions/*.
 2. Скопировать с заменой файл */itop/extensions/alarm-clock-attribute/setup/compiler.class.inc.php* в папку */itop/setup*. Не забудьте сохранить оригинальную версию компилятора!
 3. Запустить процедуру обновления iTop.
